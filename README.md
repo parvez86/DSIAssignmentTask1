@@ -33,7 +33,7 @@ A simple OOP based java project where users can add, update, delete, get individ
 
 # Files
 * **Product.java:** Contains product definition.
-* **E_Product.java:** MVC model file. Contains e-products definition like product type, rating, and consumption-time etc.
+* **E_Products.java:** MVC model file. Contains e-products definition like product type, rating, and consumption-time etc.
 * **Views.java:** MVC view file.
 * **ProductsController.java:** MVC controller file.
 * **DSIAssignmentTask1.java:** Project entry file.
