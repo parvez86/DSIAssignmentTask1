@@ -38,6 +38,6 @@ A simple OOP based java project where users can add, update, delete, get individ
 * **ProductsController.java:** MVC controller file.
 * **DSIAssignmentTask1.java:** Project entry file.
 
-# Run Projects
+# Run Project
 * **DSIAssignmentTask1.java:** Run the file.
 
