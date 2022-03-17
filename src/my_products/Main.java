@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dsiassignmenttask1;
-import dsiassignmenttask1.ProductsController;
+package my_products;
+import my_products.ProductsController;
 /**
  *
  * @author Ln
  */
-public class DSIAssignmentTask1 {
+public class Main {
 
     /**
      * @param args the command line arguments

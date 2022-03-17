@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dsiassignmenttask1;
+package my_products;
 import java.util.Scanner;
-import dsiassignmenttask1.Views;
-import dsiassignmenttask1.E_Products;
-import dsiassignmenttask1.Product;
+import my_products.Views;
+import my_products.E_Products;
+import my_products.Product;
 /**
  *
  * @author Ln

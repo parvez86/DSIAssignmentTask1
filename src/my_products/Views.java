@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dsiassignmenttask1;
+package my_products;
 import java.util.ArrayList;
-import dsiassignmenttask1.Product;
+import my_products.Product;
 /**
  *
  * @author Ln
